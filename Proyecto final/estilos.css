@@ -1,0 +1,74 @@
+.ojo {
+    color: rgb(211, 211, 211);
+}
+
+.ojo:hover {
+    color: rgb(230, 152, 152);
+    cursor: pointer;
+}
+
+.enviar {
+    border: none;
+    color: rgb(211, 211, 211);
+    background-color: black;
+}
+
+.enviar:hover {
+    color: rgb(230, 152, 152);
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.logo:hover {
+    color: rgb(230, 152, 152);
+}
+
+.salida {
+    cursor: pointer;
+}
+
+.salida:hover {
+    color: rgb(230, 152, 152);
+}
+
+.boton {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.boton:hover {
+    color: rgb(230, 152, 152);
+}
+
+.boton::after {
+    background-color: black;
+}
+
+.icono {
+    border-radius: 5px;
+    background-color: black;
+    cursor: pointer;
+}
+
+.icono:hover {
+    color: rgb(230, 152, 152);
+}
+
+.icono2 {
+    border-radius: 5px;
+    background-color: black;
+}
+
+.boton2 {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    cursor: default;
+}
+
+.alerta {
+    color: rgb(230, 152, 152);
+}
